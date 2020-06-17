@@ -12,6 +12,25 @@ Please install Deno before running this applications.
 
 [Deno](https://deno.land/#installation)
 
+## To run the application
+
+Navigate to the directory
+
+deno run server.ts
+
+## Trouble shooting
+
+### Uncaught PermissionDenied network access: network access to "0.0.0.0:8000"
+
+use this command to run the app.
+
+> deno run --allow-net server.ts
+
+### an error occurred trying to connect: invalid certificate: UnknownIssuer
+
+Make sure you are not connected to a VPN if using personal system.
+Try connecting to a VPN for corporate systems.
+
 ## Credits
 
 [Deno](https://deno.land/)
