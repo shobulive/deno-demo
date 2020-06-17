@@ -1,5 +1,8 @@
+// @ts-ignore
 import { v4 } from "https://deno.land/std/uuid/mod.ts";
+// @ts-ignore
 import { User } from "../models/entity.ts";
+// @ts-ignore
 import { getUsers, setUsers } from "../data/users.ts";
 
 export /**

@@ -1,3 +1,4 @@
+// @ts-ignore
 import { User } from "../models/entity.ts";
 let users: User[] = [
   {

@@ -1,4 +1,6 @@
+// @ts-ignore
 import { Application } from "https://deno.land/x/oak/mod.ts";
+// @ts-ignore
 import router from "./routes/index.ts";
 const port = 8000;
 
