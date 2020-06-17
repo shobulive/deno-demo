@@ -15,7 +15,7 @@ D - Delete /api/v1/users/:id DELETE
 
 Please install Deno before running this applications.
 
-[Deno](https://deno.land/#installation)
+[Deno Installation Guide](https://deno.land/#installation)
 
 ## To run the application
 
