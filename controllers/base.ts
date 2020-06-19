@@ -8,7 +8,7 @@ const healthCheck = ({ response }: { response: any }) => {
 };
 
 export /**
- * Health check
+ * Ping route
  *
  * @param {{ response: any }} { response }
  */
